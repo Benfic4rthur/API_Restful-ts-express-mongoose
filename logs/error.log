@@ -1,0 +1,11 @@
+2023-05-07 19:42:53 [31merror[39m: [31mError connecting to db[39m
+2023-05-07 22:46:48 [31merror[39m: [31mError creating movie user is not allowed to do action [insert] on [test.movies][39m
+2023-05-07 22:48:13 [31merror[39m: [31mError creating movie user is not allowed to do action [insert] on [test.movies][39m
+2023-05-07 22:51:01 [31merror[39m: [31mError creating movie user is not allowed to do action [insert] on [test.movies][39m
+2023-05-07 22:51:36 [31merror[39m: [31mError creating movie user is not allowed to do action [insert] on [test.movies][39m
+2023-05-07 23:02:00 [31merror[39m: [31mError creating movie user is not allowed to do action [insert] on [test.movies][39m
+2023-05-07 23:03:52 [31merror[39m: [31mError creating movie user is not allowed to do action [insert] on [test.movies][39m
+2023-05-07 23:08:30 [31merror[39m: [31mError creating movie user is not allowed to do action [insert] on [test.movies][39m
+2023-05-08 03:10:09 [31merror[39m: [31mError getting movies user is not allowed to do action [find] on [test.movies][39m
+2023-05-08 03:11:55 [31merror[39m: [31mError getting movies user is not allowed to do action [find] on [test.movies][39m
+2023-05-08 03:16:04 [31merror[39m: [31mError getting movie Cast to ObjectId failed for value "1" (type string) at path "_id" for model "Movie"[39m

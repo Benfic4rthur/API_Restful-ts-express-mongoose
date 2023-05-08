@@ -1,0 +1,302 @@
+2023-05-07 19:37:48 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 19:38:00 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 19:38:39 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 19:38:41 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 19:38:46 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 19:38:48 [32minfo[39m: [32mDB connected[39m
+2023-05-07 19:38:48 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 19:39:07 [32minfo[39m: [32mDB connected[39m
+2023-05-07 19:39:07 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 19:39:09 [32minfo[39m: [32mDB connected[39m
+2023-05-07 19:39:09 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 19:39:16 [32minfo[39m: [32mDB connected[39m
+2023-05-07 19:39:16 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 19:39:20 [32minfo[39m: [32mDB connected[39m
+2023-05-07 19:39:20 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 19:39:40 [32minfo[39m: [32mDB connected[39m
+2023-05-07 19:39:40 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 19:40:24 [32minfo[39m: [32mDB connected[39m
+2023-05-07 19:40:24 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 19:42:07 [32minfo[39m: [32mDB connected[39m
+2023-05-07 19:42:07 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 19:42:39 [32minfo[39m: [32mDB connected[39m
+2023-05-07 19:42:39 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 19:42:43 [32minfo[39m: [32mDB connected[39m
+2023-05-07 19:42:43 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 19:42:53 [31merror[39m: [31mError connecting to db[39m
+2023-05-07 19:42:58 [32minfo[39m: [32mDB connected[39m
+2023-05-07 19:42:58 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 19:49:52 [32minfo[39m: [32mDB connected[39m
+2023-05-07 19:49:52 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 19:50:08 [32minfo[39m: [32mDB connected[39m
+2023-05-07 19:50:08 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 19:52:37 [32minfo[39m: [32mDB connected[39m
+2023-05-07 19:52:37 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 19:53:06 [32minfo[39m: [32mDB connected[39m
+2023-05-07 19:53:06 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 19:53:07 [35mhttp[39m: [35mGET /api/test 200 28 - 2.006 ms[39m
+[35m[39m
+2023-05-07 22:35:35 [32minfo[39m: [32mDB connected[39m
+2023-05-07 22:35:35 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 22:35:38 [35mhttp[39m: [35mGET /api/movie 404 148 - 2.265 ms[39m
+[35m[39m
+2023-05-07 22:36:12 [35mhttp[39m: [35mGET /api//movie 404 149 - 0.584 ms[39m
+[35m[39m
+2023-05-07 22:36:15 [35mhttp[39m: [35mGET /api//movie/ 404 150 - 0.356 ms[39m
+[35m[39m
+2023-05-07 22:36:21 [35mhttp[39m: [35mGET /api/movie 404 148 - 0.303 ms[39m
+[35m[39m
+2023-05-07 22:38:33 [35mhttp[39m: [35mGET /api/movie 404 148 - 0.271 ms[39m
+[35m[39m
+2023-05-07 22:39:47 [35mhttp[39m: [35mPOST /api/movie 200 4 - 1.497 ms[39m
+[35m[39m
+2023-05-07 22:43:40 [32minfo[39m: [32mDB connected[39m
+2023-05-07 22:43:40 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 22:43:45 [32minfo[39m: [32mDB connected[39m
+2023-05-07 22:43:45 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 22:43:55 [32minfo[39m: [32mDB connected[39m
+2023-05-07 22:43:55 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 22:44:02 [32minfo[39m: [32mDB connected[39m
+2023-05-07 22:44:02 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 22:44:05 [32minfo[39m: [32mDB connected[39m
+2023-05-07 22:44:05 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 22:44:10 [32minfo[39m: [32mDB connected[39m
+2023-05-07 22:44:10 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 22:44:22 [32minfo[39m: [32mDB connected[39m
+2023-05-07 22:44:22 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 22:44:26 [32minfo[39m: [32mDB connected[39m
+2023-05-07 22:44:26 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 22:44:45 [32minfo[39m: [32mDB connected[39m
+2023-05-07 22:44:45 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 22:44:57 [32minfo[39m: [32mDB connected[39m
+2023-05-07 22:44:57 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 22:44:59 [32minfo[39m: [32mDB connected[39m
+2023-05-07 22:44:59 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 22:45:04 [32minfo[39m: [32mDB connected[39m
+2023-05-07 22:45:04 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 22:45:34 [32minfo[39m: [32mDB connected[39m
+2023-05-07 22:45:34 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 22:46:48 [31merror[39m: [31mError creating movie user is not allowed to do action [insert] on [test.movies][39m
+2023-05-07 22:46:48 [35mhttp[39m: [35mPOST /api/movie 500 44 - 155.047 ms[39m
+[35m[39m
+2023-05-07 22:48:13 [31merror[39m: [31mError creating movie user is not allowed to do action [insert] on [test.movies][39m
+2023-05-07 22:48:13 [35mhttp[39m: [35mPOST /api/movie 500 44 - 145.890 ms[39m
+[35m[39m
+2023-05-07 22:51:01 [31merror[39m: [31mError creating movie user is not allowed to do action [insert] on [test.movies][39m
+2023-05-07 22:51:01 [35mhttp[39m: [35mPOST /api/movie 500 44 - 144.739 ms[39m
+[35m[39m
+2023-05-07 22:51:28 [32minfo[39m: [32mDB connected[39m
+2023-05-07 22:51:28 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 22:51:36 [31merror[39m: [31mError creating movie user is not allowed to do action [insert] on [test.movies][39m
+2023-05-07 22:51:36 [35mhttp[39m: [35mPOST /api/movie 500 44 - 154.499 ms[39m
+[35m[39m
+2023-05-07 23:01:59 [32minfo[39m: [32mDB connected[39m
+2023-05-07 23:01:59 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 23:02:00 [31merror[39m: [31mError creating movie user is not allowed to do action [insert] on [test.movies][39m
+2023-05-07 23:02:43 [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2023-05-07 23:03:15 [32minfo[39m: [32mDB connected[39m
+2023-05-07 23:03:15 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 23:03:19 [32minfo[39m: [32mDB connected[39m
+2023-05-07 23:03:19 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 23:03:22 [32minfo[39m: [32mDB connected[39m
+2023-05-07 23:03:22 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 23:03:42 [32minfo[39m: [32mDB connected[39m
+2023-05-07 23:03:42 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 23:03:52 [31merror[39m: [31mError creating movie user is not allowed to do action [insert] on [test.movies][39m
+2023-05-07 23:04:38 [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2023-05-07 23:04:44 [32minfo[39m: [32mDB connected[39m
+2023-05-07 23:04:44 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 23:06:09 [32minfo[39m: [32mDB connected[39m
+2023-05-07 23:06:09 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 23:08:15 [32minfo[39m: [32mDB connected[39m
+2023-05-07 23:08:15 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 23:08:23 [32minfo[39m: [32mDB connected[39m
+2023-05-07 23:08:23 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 23:08:30 [31merror[39m: [31mError creating movie user is not allowed to do action [insert] on [test.movies][39m
+2023-05-07 23:10:18 [32minfo[39m: [32mDB connected[39m
+2023-05-07 23:10:18 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 23:10:20 [35mhttp[39m: [35mPOST /api/movie 201 69 - 4.935 ms[39m
+[35m[39m
+2023-05-07 23:16:30 [32minfo[39m: [32mDB connected[39m
+2023-05-07 23:16:30 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 23:16:39 [32minfo[39m: [32mDB connected[39m
+2023-05-07 23:16:39 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 23:16:59 [32minfo[39m: [32mDB connected[39m
+2023-05-07 23:16:59 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 23:18:12 [32minfo[39m: [32mDB connected[39m
+2023-05-07 23:18:12 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 23:18:54 [32minfo[39m: [32mDB connected[39m
+2023-05-07 23:18:54 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 23:19:15 [35mhttp[39m: [35mPOST /api/movie 201 61 - 5.050 ms[39m
+[35m[39m
+2023-05-07 23:19:52 [32minfo[39m: [32mDB connected[39m
+2023-05-07 23:19:52 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 23:20:22 [32minfo[39m: [32mDB connected[39m
+2023-05-07 23:20:22 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 23:20:29 [32minfo[39m: [32mDB connected[39m
+2023-05-07 23:20:29 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 23:20:35 [32minfo[39m: [32mDB connected[39m
+2023-05-07 23:20:35 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 23:21:18 [32minfo[39m: [32mDB connected[39m
+2023-05-07 23:21:18 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-07 23:23:06 [32minfo[39m: [32mDB connected[39m
+2023-05-07 23:23:06 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 01:06:55 [32minfo[39m: [32mDB connected[39m
+2023-05-08 01:06:55 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 02:40:08 [32minfo[39m: [32mDB connected[39m
+2023-05-08 02:40:08 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 02:49:22 [32minfo[39m: [32mDB connected[39m
+2023-05-08 02:49:22 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 02:52:04 [32minfo[39m: [32mDB connected[39m
+2023-05-08 02:52:04 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 02:52:37 [32minfo[39m: [32mDB connected[39m
+2023-05-08 02:52:37 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 02:52:43 [32minfo[39m: [32mDB connected[39m
+2023-05-08 02:52:43 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 02:52:54 [32minfo[39m: [32mDB connected[39m
+2023-05-08 02:52:54 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 02:53:01 [35mhttp[39m: [35mPOST /api/movie 201 65 - 5.416 ms[39m
+[35m[39m
+2023-05-08 02:56:45 [32minfo[39m: [32mDB connected[39m
+2023-05-08 02:56:45 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 02:56:53 [32minfo[39m: [32mDB connected[39m
+2023-05-08 02:56:53 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 02:57:01 [35mhttp[39m: [35mPOST /api/movie 201 57 - 7.979 ms[39m
+[35m[39m
+2023-05-08 02:57:14 [35mhttp[39m: [35mPOST /api/movie 422 42 - 0.857 ms[39m
+[35m[39m
+2023-05-08 02:57:29 [32minfo[39m: [32mDB connected[39m
+2023-05-08 02:57:29 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 02:57:44 [32minfo[39m: [32mDB connected[39m
+2023-05-08 02:57:44 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 02:57:47 [32minfo[39m: [32mDB connected[39m
+2023-05-08 02:57:47 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 02:57:52 [32minfo[39m: [32mDB connected[39m
+2023-05-08 02:57:52 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 02:57:57 [32minfo[39m: [32mDB connected[39m
+2023-05-08 02:57:57 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 02:58:10 [35mhttp[39m: [35mPOST /api/movie 422 65 - 4.256 ms[39m
+[35m[39m
+2023-05-08 02:58:41 [32minfo[39m: [32mDB connected[39m
+2023-05-08 02:58:41 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 02:58:47 [32minfo[39m: [32mDB connected[39m
+2023-05-08 02:58:47 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 02:59:06 [35mhttp[39m: [35mPOST /api/movie 422 96 - 4.635 ms[39m
+[35m[39m
+2023-05-08 02:59:24 [35mhttp[39m: [35mPOST /api/movie 201 85 - 5.400 ms[39m
+[35m[39m
+2023-05-08 02:59:40 [35mhttp[39m: [35mPOST /api/movie 201 85 - 1.359 ms[39m
+[35m[39m
+2023-05-08 03:00:02 [32minfo[39m: [32mDB connected[39m
+2023-05-08 03:00:02 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 03:00:39 [32minfo[39m: [32mDB connected[39m
+2023-05-08 03:00:39 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 03:00:41 [32minfo[39m: [32mDB connected[39m
+2023-05-08 03:00:41 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 03:00:50 [35mhttp[39m: [35mPOST /api/movie 422 56 - 4.587 ms[39m
+[35m[39m
+2023-05-08 03:01:14 [32minfo[39m: [32mDB connected[39m
+2023-05-08 03:01:14 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 03:01:17 [32minfo[39m: [32mDB connected[39m
+2023-05-08 03:01:17 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 03:01:20 [32minfo[39m: [32mDB connected[39m
+2023-05-08 03:01:20 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 03:01:22 [32minfo[39m: [32mDB connected[39m
+2023-05-08 03:01:22 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 03:01:25 [32minfo[39m: [32mDB connected[39m
+2023-05-08 03:01:25 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 03:01:47 [35mhttp[39m: [35mPOST /api/movie 201 116 - 8.504 ms[39m
+[35m[39m
+2023-05-08 03:01:54 [32minfo[39m: [32mDB connected[39m
+2023-05-08 03:01:54 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 03:01:58 [32minfo[39m: [32mDB connected[39m
+2023-05-08 03:01:58 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 03:02:04 [32minfo[39m: [32mDB connected[39m
+2023-05-08 03:02:04 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 03:02:06 [32minfo[39m: [32mDB connected[39m
+2023-05-08 03:02:06 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 03:02:25 [32minfo[39m: [32mDB connected[39m
+2023-05-08 03:02:25 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 03:03:16 [32minfo[39m: [32mDB connected[39m
+2023-05-08 03:03:16 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 03:03:19 [32minfo[39m: [32mDB connected[39m
+2023-05-08 03:03:19 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 03:03:33 [32minfo[39m: [32mDB connected[39m
+2023-05-08 03:03:33 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 03:03:37 [32minfo[39m: [32mDB connected[39m
+2023-05-08 03:03:37 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 03:04:38 [32minfo[39m: [32mDB connected[39m
+2023-05-08 03:04:38 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 03:04:42 [32minfo[39m: [32mDB connected[39m
+2023-05-08 03:04:42 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 03:04:46 [32minfo[39m: [32mDB connected[39m
+2023-05-08 03:04:46 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 03:05:26 [32minfo[39m: [32mDB connected[39m
+2023-05-08 03:05:26 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 03:05:31 [32minfo[39m: [32mDB connected[39m
+2023-05-08 03:05:31 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 03:05:52 [32minfo[39m: [32mDB connected[39m
+2023-05-08 03:05:52 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 03:06:01 [32minfo[39m: [32mDB connected[39m
+2023-05-08 03:06:01 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 03:06:23 [32minfo[39m: [32mDB connected[39m
+2023-05-08 03:06:23 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 03:06:39 [32minfo[39m: [32mDB connected[39m
+2023-05-08 03:06:39 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 03:07:50 [32minfo[39m: [32mDB connected[39m
+2023-05-08 03:07:50 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 03:08:19 [32minfo[39m: [32mDB connected[39m
+2023-05-08 03:08:19 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 03:08:25 [32minfo[39m: [32mDB connected[39m
+2023-05-08 03:08:25 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 03:09:22 [32minfo[39m: [32mDB connected[39m
+2023-05-08 03:09:22 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 03:10:09 [31merror[39m: [31mError getting movies user is not allowed to do action [find] on [test.movies][39m
+2023-05-08 03:11:33 [35mhttp[39m: [35mGET /api//movie - - - - ms[39m
+[35m[39m
+2023-05-08 03:11:54 [32minfo[39m: [32mDB connected[39m
+2023-05-08 03:11:54 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 03:11:55 [31merror[39m: [31mError getting movies user is not allowed to do action [find] on [test.movies][39m
+2023-05-08 03:12:15 [35mhttp[39m: [35mGET /api//movie - - - - ms[39m
+[35m[39m
+2023-05-08 03:13:24 [32minfo[39m: [32mDB connected[39m
+2023-05-08 03:13:24 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 03:13:28 [32minfo[39m: [32mDB connected[39m
+2023-05-08 03:13:28 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 03:15:02 [32minfo[39m: [32mDB connected[39m
+2023-05-08 03:15:02 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 03:16:04 [31merror[39m: [31mError getting movie Cast to ObjectId failed for value "1" (type string) at path "_id" for model "Movie"[39m
+2023-05-08 03:16:07 [35mhttp[39m: [35mDELETE /api//movie/1 - - - - ms[39m
+[35m[39m
+2023-05-08 03:16:30 [32minfo[39m: [32mDB connected[39m
+2023-05-08 03:16:30 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 03:16:36 [32minfo[39m: [32mDB connected[39m
+2023-05-08 03:16:36 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 03:16:38 [32minfo[39m: [32mDB connected[39m
+2023-05-08 03:16:38 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 03:16:52 [32minfo[39m: [32mDB connected[39m
+2023-05-08 03:16:52 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 03:17:02 [32minfo[39m: [32mDB connected[39m
+2023-05-08 03:17:02 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 03:17:36 [32minfo[39m: [32mDB connected[39m
+2023-05-08 03:17:36 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 03:18:51 [32minfo[39m: [32mDB connected[39m
+2023-05-08 03:18:51 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 03:19:19 [32minfo[39m: [32mDB connected[39m
+2023-05-08 03:19:19 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 03:19:28 [32minfo[39m: [32mDB connected[39m
+2023-05-08 03:19:28 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 03:20:23 [32minfo[39m: [32mDB connected[39m
+2023-05-08 03:20:23 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 03:20:26 [32minfo[39m: [32mDB connected[39m
+2023-05-08 03:20:26 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 03:20:30 [32minfo[39m: [32mDB connected[39m
+2023-05-08 03:20:30 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 03:20:36 [32minfo[39m: [32mDB connected[39m
+2023-05-08 03:20:36 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 03:20:49 [32minfo[39m: [32mDB connected[39m
+2023-05-08 03:20:49 [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-08 03:20:51 [32minfo[39m: [32mDB connected[39m
+2023-05-08 03:20:51 [32minfo[39m: [32mServer is running on port 3000[39m
